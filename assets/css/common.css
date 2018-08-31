@@ -1,7 +1,12 @@
+.content {
+    color: #6d6d6d;
+}
+
 h1 {
     color: #ffffff;
     background-color: #7f358a;
     border-radius: 40px;
     width: 200px;
     text-align: center;
+    margin-top: 3rem
 }
