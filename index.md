@@ -24,7 +24,7 @@ Zde najdeš informace o tom kde hledat bydlení, jaké jsou typy bydlení a jeji
 
 * [Pojmy](bydleni/pojmy)
 * [Kde hledat](bydleni/kde-hledat)
-* [SML](bydleni/sml)
+* [Druhy bydlení](bydleni/druhy)
 
 # Kontakty
 
