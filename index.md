@@ -2,11 +2,9 @@
 layout: base
 ---
 
-Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah.
-
 # Práce
 
-Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah.
+Zde najdeš informace o tom kde hledat práci, jak se připravit na pracovní pohovor, jak má vypadat životopis a motivační dopis, na co myslet při podpisu pracovní smlouvy a vysvětlení pojmů, se kterými se můžeš setkat.
 
 * [Pojmy](prace/pojmy)
 * [Kde hledat práci](prace/kde-hledat-praci)
@@ -14,7 +12,7 @@ Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Bla
 
 # Peníze
 
-Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah.
+Zde najdeš informace o tom jak si sestavit vlastní rozpočet, na co si dát pozor při hospodaření s penězi, jak si poradit s dluhy, tipy a triky jak ušetřit a vysvětlení pojmů, se kterými se můžeš setkat.
 
 * [Pojmy](penize/pojmy)
 * [Můj rozpočet](penize/muj-rozpocet)
@@ -22,7 +20,7 @@ Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Bla
 
 # Bydlení
 
-Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah.
+Zde najdeš informace o tom kde hledat bydlení, jaké jsou typy bydlení a jejich výhody a nevýhody, na co myslet při podpisu podnájemní smlouvy a vysvětlení pojmů, se kterými se můžeš setkat.
 
 * [Pojmy](bydleni/pojmy)
 * [Kde hledat](bydleni/kde-hledat)
@@ -30,7 +28,7 @@ Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Bla
 
 # Kontakty
 
-Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah.
+Zde najdeš kontakty na domy na půlcesty a azylové ubytování po celé České republice, odkaz na Občanské poradny, kde ti pomohu s tím, s čím si nevíš rady ty a kontakty na organizace, které ti mohou pomoc v tíživé životní situaci.
 
 * [DPC a azyly](kontakty/dpc-azyly)
 * [Občanská poradna](kontakty/obcanska-poradna)
