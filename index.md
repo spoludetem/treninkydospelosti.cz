@@ -1,9 +1,37 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-Hello, world!!!!!! Treningy dospelosti
 
-[asd](http://asd/)
+Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah.
+
+# Práce
+
+Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah.
+
+* [Pojmy](prace/pojmy)
+* [Kde hledat práci](prace/kde-hledat-praci)
+* [CV](prace/cv)
+
+# Peníze
+
+Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah.
+
+* [Pojmy](penize/pojmy)
+* [Můj rozpočet](penize/muj-rozpocet)
+* [Tipy](penize/tipy)
+
+# Bydlení
+
+Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah.
+
+* [Pojmy](bydleni/pojmy)
+* [Kde hledat](bydleni/kde-hledat)
+* [SML](bydleni/sml)
+
+# Kontakty
+
+Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah. Blah blah.
+
+* [DPC a azyly](kontakty/dpc-azyly)
+* [Občanská poradna](kontakty/obcanska-poradna)
+* [Krize](kontakty/krize)
