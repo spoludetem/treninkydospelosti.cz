@@ -2,6 +2,6 @@
 layout: base
 ---
 
-Občanské poradny
+# Občanské poradny
 
-http://www.obcanskeporadny.cz/index.php?option=com_poradny&view=poradny&Itemid=8
+Seznam občanských poraden najdeš [zde](http://www.obcanskeporadny.cz/index.php?option=com_poradny&view=poradny&Itemid=8).
