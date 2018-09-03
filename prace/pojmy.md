@@ -12,9 +12,9 @@ layout: base
 
 **Pracovní smlouva** – pracovní smlouva se uzavírá písemně, nezapomeňte si ji proto před podpisem důkladně přečíst. Jedno vyhotovení zůstane vám, druhé si ponechá zaměstnavatel. V pracovní smlouvě musí být podle zákoníku práce uvedeny tři zákonné náležitosti:
 
-    1. druh práce
-    2. místo výkonu práce
-    3. den nástupu do zaměstnání
+1. druh práce
+2. místo výkonu práce
+3. den nástupu do zaměstnání
 
 Mimo ně do smlouvy patří i označení zaměstnavatele (název, sídlo) a osobní údaje zaměstnance (jméno, bydliště, rodné číslo nebo datum narození).
 
