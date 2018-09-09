@@ -42,3 +42,42 @@ table {
 th {
     padding-right: 2rem;
 }
+
+.penize table {
+    border: 2px #6d6d6d solid;
+    margin-bottom: 1rem;
+}
+
+.penize th {
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    border-left: 2px #6d6d6d solid;
+    border-bottom: 2px #6d6d6d solid;
+}
+
+.penize th:nth-child(2n) {
+    border-left-style: none;
+}
+
+.penize td {
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    border: 1px #6d6d6d solid;
+}
+
+.penize td:nth-child(2n+1) {
+    border-left-width: 2px;
+}
+
+.penize td:last-child {
+    border-bottom-style: none;
+    border-top-style: none;
+}
+
+.penize tr:last-child td {
+    border-top: 2px solid;
+}
+
+.penize code {
+    color: #6d6d6d;
+}
