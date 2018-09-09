@@ -12,6 +12,14 @@ h1 {
     box-shadow: 2px 2px;
 }
 
+h2 {
+    text-align: left;
+}
+
+h3 {
+    text-align: left;
+}
+
 .page-footer {
     color: #ffffff;
     background-color: #7f358a;
@@ -25,4 +33,12 @@ h1 {
 .navbar .brand-title {
     color:#e2017b;
     font-size: 3rem;
+}
+
+table {
+    text-align: left;
+}
+
+th {
+    padding-right: 2rem;
 }
