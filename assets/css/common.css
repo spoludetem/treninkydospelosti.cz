@@ -1,3 +1,28 @@
+/* 
+Issue #7 FIX: footer placed bottom even for page with not enough content 
+inspiration from: https://chrisbracco.com/css-sticky-footer-effect/
+but it is not bullet-proof and might not properly work with zooming
+*/
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100%;
+    position: relative;
+    padding-bottom: 25rem;
+}
+
+.absolute-bottom {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+/* END OF #7 FIX */
+
 .content {
     color: #6d6d6d;
 }
