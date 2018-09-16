@@ -1,5 +1,6 @@
 ---
 layout: base
+category: index
 ---
 
 # Práce
@@ -31,5 +32,5 @@ Zde najdeš informace o tom kde hledat bydlení, jaké jsou typy bydlení a jeji
 Zde najdeš kontakty na domy na půlcesty a azylové ubytování po celé České republice, odkaz na Občanské poradny, kde ti pomohu s tím, s čím si nevíš rady ty a kontakty na organizace, které ti mohou pomoc v tíživé životní situaci.
 
 * [DPC a azyly](kontakty/dpc-azyly)
-* [Občanská poradna](kontakty/obcanska-poradna)
+* [Občanské poradny](kontakty/obcanske-poradny)
 * [Krize](kontakty/krize)

@@ -31,10 +31,16 @@ h1 {
     color: #ffffff;
     background-color: #7f358a;
     border-radius: 40px;
-    width: 200px;
     text-align: center;
     margin-top: 3rem;
     box-shadow: 2px 2px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    display: inline-block;
+}
+
+.index h1 {
+    width: 15rem;
 }
 
 h2 {
