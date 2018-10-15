@@ -12,6 +12,7 @@ body {
     min-height: 100%;
     position: relative;
     padding-bottom: 30rem;
+    font-family: 'Rubik', sans-serif !important;
 }
 
 .absolute-bottom {
