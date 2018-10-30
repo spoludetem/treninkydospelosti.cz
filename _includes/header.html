@@ -10,7 +10,20 @@
 
       gtag('config', 'UA-126407390-1');
     </script>
-
+    <script>
+      window.onscroll = function() {
+        if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+          document.getElementById("go-to-top").style.display = "block";
+        } else {
+         document.getElementById("go-to-top").style.display = "none";
+        }
+      }
+      
+      function goToTop(){
+        document.body.scrollTop = 0; // For Safari
+        document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+      }
+    </script>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -33,3 +46,4 @@
       </span>
       <span class="brand-title font-weight-bold">{{ site.title }}</span>
     </nav>
+    <button onclick="goToTop()" id="go-to-top" class="btn">^</button>
