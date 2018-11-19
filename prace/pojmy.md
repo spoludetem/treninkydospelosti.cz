@@ -41,8 +41,14 @@ Dohoda o pracovní činnosti (DPČ) se sjednává převážně v případě zás
 ## Rejstřík trestů
 
 Vede evidenci osob pravomocně odsouzených soudy v trestním řízení a dále evidenci jiných významných skutečností pro trestní řízení. Údaje z evidence (tzv. výpis z rejstříku trestů) slouží k prokazování tvé bezúhonnosti.
-Sociální pojištění – Platí se státu, slouží k úhradě starobních, invalidních, sirotčích důchodů, dávek nezaměstnanosti, náhrad mzdy za nemoc apod. Odváděno se mzdou. V případě, že pracuješ na živnostenský list, musíš platit sám/a!
-Zdravotní pojištění – Zdravotní pojištění je povinné pro každého občana České republiky. Buď si ho hradí sám (pracuje na živnostenský list), nebo je za něj placeno státem (děti, studenti, důchodci, apod.). Každý pojištěný má nárok na bezplatnou základní zdravotní péči.
+
+## Sociální pojištění
+
+Platí se státu, slouží k úhradě starobních, invalidních, sirotčích důchodů, dávek nezaměstnanosti, náhrad mzdy za nemoc apod. Odváděno se mzdou. V případě, že pracuješ na živnostenský list, musíš platit sám/a!
+
+## Zdravotní pojištění
+
+Zdravotní pojištění je povinné pro každého občana České republiky. Buď si ho hradí sám (pracuje na živnostenský list), nebo je za něj placeno státem (děti, studenti, důchodci, apod.). Každý pojištěný má nárok na bezplatnou základní zdravotní péči.
 
 ## Úřad práce (ÚP)
 
