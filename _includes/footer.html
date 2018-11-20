@@ -4,13 +4,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm">
+                    <p class="font-weight-bold">{{ site.data.footer.company }}</p>
                     <p>{% for phone in site.data.footer.phones %}
                     <a href="tel:{{ phone }}">{{ phone }}</a><br />
-                    {% endfor %}</p>
-                    <p><a href="mailto:{{ site.data.footer.email }}">{{ site.data.footer.email }}</a></p>
+                    {% endfor %}
+                    <a href="mailto:{{ site.data.footer.email }}">{{ site.data.footer.email }}</a>
+                    </p>
                 </div>
                 <div class="col-sm">
-                    <p class="font-weight-bold">{{ site.data.footer.company }}</p>
+                    
                     <p>{% for address_line in site.data.footer.address_lines %}
                     {{ address_line }}<br />
                     {% endfor %}</p>
