@@ -28,25 +28,65 @@ body {
     color: #6d6d6d;
 }
 
-#go-to-top {
+div#quick-nav {
     display: none;
     position: fixed;
-    top: 20px; /* Place the button at the bottom of the page */
-    right: 20px; /* Place the button 30px from the right */
+    top: 20px; /* Place the quick nav at the bottom of the page */
+    right: 20px; /* Place the quick nav 30px from the right */
     z-index: 99; /* Make sure it does not overlap */
-    border: 2px solid;  
-    background-color: #ffffff; /* Set a background color */
-    color: #7f358a; /* Text color */
-    cursor: pointer; /* Add a mouse pointer on hover */
-    border-radius: 1rem;
-    font-size: 4rem; /* Increase font size */
-    font-weight: bold;
+};
+
+/* TODO for some weird reason this gets partially ignored, workarounding by direct id locators */
+button.quick-nav-btn {
+    display: block !important; 
+    background-color: #ffffff; 
+    color: #7f358a; 
     height: 4rem;
-    padding-top: 0.25rem
+    width: 4rem;
+    z-index: 100;
+    border: 2px solid;  
+    border-radius: 1rem;
+    margin-bottom: 5px;
+}
+/*
+button.btn.quick-nav-btn:hover {
+    background-color: #7f358a;
+}
+*/
+button#go-to-top {
+    display: block !important; 
+    background-color: #ffffff;
+    color: #7f358a;
+    height: 4rem;
+    width: 4rem;
+    z-index: 100;
+    border: 2px solid;  
+    border-radius: 1rem;
+    margin-bottom: 5px; 
+}
+button#go-to-top:hover {
+    background-color: #7f358a;
+}
+button#go-home {
+    display: block !important; 
+    background-color: #ffffff;
+    color: #7f358a;
+    height: 4rem;
+    width: 4rem;
+    z-index: 100;
+    border: 2px solid;  
+    border-radius: 1rem;
+}
+button#go-home:hover {
+    background-color: #7f358a;
 }
 
-#go-to-top:hover {
-    background-color: #7f358a; /* Set a background color */
+button.quick-nav-btn span {
+    color: #7f358a;
+    font-size: 1.5rem; 
+}
+
+button.quick-nav-btn:hover span {
     color: #ffffff;
 }
 
@@ -96,6 +136,10 @@ h3 {
     line-height: 90%;
     text-align: center;
     flex: auto;
+}
+
+img#top-logo {
+    cursor: pointer;
 }
 
 table {
